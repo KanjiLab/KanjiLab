@@ -4,10 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ----------------------
 
-* 🌍  I'm based in Brazil, São Paulo
+* 🌍 I'm based in Brazil, São Paulo
 * 📫 You can contact me at [kanjilaboratory@gmail.com](mailto:kanjilaboratory@gmail.com)
-* 🧠  We transform ideas into codes and challenges into solutions.
-* ⚡  Passionate about technology!
+* 🧠 We transform ideas into codes and challenges into solutions.
+* ⚡ Passionate about technology!
+* 💡 Custom software development
+* 🛠  Scalable and efficient solutions
+* 🌐 Exploring the frontiers of technology
+* 📦 Open and transparent collaboration
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
 
