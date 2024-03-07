@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌐 Exploring the frontiers of technology
 * 📦 Open and transparent collaboration
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbritodev&label=Profile%20views&color=0e75b6&style=flat" alt="nickbritodev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KanjiLab&label=Profile%20views&color=0e75b6&style=flat" alt="KanjiLab" /> </p>
 
 ### Languages and Tools
 <div align="left">
